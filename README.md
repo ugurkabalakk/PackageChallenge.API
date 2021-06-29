@@ -44,4 +44,5 @@ numbers are separated by comma). E.g.
 
 
 **Parameter:**
- Sample Parametere : { "filePath" = "D:\\resources\\example_input"} 
+ Sample Parameter :  
+  { "filePath" = "D:\\example_input"} 
