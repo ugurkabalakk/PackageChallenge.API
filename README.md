@@ -43,6 +43,4 @@ numbers are separated by comma). E.g.
 3. Max weight and cost of an item is ≤ 100
 
 
-**Parameter:**
- Sample Parameter :  
-  { "filePath" = "D:\\\example_input"} 
+**Sample Parameter :**  { "filePath" = "D:\\\example_input"} 
